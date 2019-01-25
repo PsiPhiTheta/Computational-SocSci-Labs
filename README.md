@@ -11,11 +11,16 @@ Inside the '[rev](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/
 
 ### 2.1 The spread of true and false news online (2018)
 
+Review in progress...
 
 ### 2.2 Quantitative Analysis of Culture Using Millions of Digitized Books (2011)
 
+Review in progress...
 
 ### 2.3 Large-scale physical activity data reveal worldwide activity inequality
 
+Review in progress...
 
 ### 2.4 Human Decisions and Machine Predictions
+
+Review in progress...
