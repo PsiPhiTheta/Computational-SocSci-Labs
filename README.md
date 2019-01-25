@@ -7,11 +7,15 @@ Inside the '[pre](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/
 
 ## 2. Paper Reviews
 
-Inside the '[rev](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev)' folder, reviews of 12 major papers in computational social science are to be shown for discussion and peer-review purposes in 6 seminars. 
+Inside the '[rev](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev)' folder, reviews of 12 major papers in computational social science are written to be used for peer-review purposes throughout the course of 6 review seminars. 
 
 ### 2.1 The spread of true and false news online (2018)
 
 
-
 ### 2.2 Quantitative Analysis of Culture Using Millions of Digitized Books (2011)
 
+
+### 2.3 Large-scale physical activity data reveal worldwide activity inequality
+
+
+### 2.4 Human Decisions and Machine Predictions
