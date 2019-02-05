@@ -40,3 +40,35 @@ Review in progress...
 ### 2.8 Algorithm aversion: People erroneously avoid algorithms after seeing them err (2014)
 
 Review in progress...
+
+### 2.9 Growing Closer on Facebook: Changes in Tie Strength Through Social Network Site Use (2014)
+
+Review in progress...
+
+### 2.10 Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election (2018)
+
+Review in progress...
+
+### 2.11 Crowd-sourced Text Analysis: Reproducible and Agile Production of Political Data (2016)
+
+Review in progress...
+
+### 2.12 To put that in perspective: Generating analogies that make numbers easier to understand (2018)
+
+Review in progress...
+
+### 2.13 Man is to computer programmer as woman is to homemaker? Debiasing word embeddings (2016)
+
+Review in progress...
+
+### 2.14 Discrimination in online ad delivery (2013)
+
+Review in progress...
+
+### 2.15 Experimental Evidence of Massive-scale Emotional Contagion through Social Networks (2014)
+
+Review in progress...
+
+### 2.16 Where are human subjects in Big Data research? The emerging ethics divide (2016)
+
+Review in progress...
