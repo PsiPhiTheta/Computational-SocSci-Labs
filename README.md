@@ -11,64 +11,64 @@ Inside the '[rev](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/
 
 ### 2.1 The spread of true and false news online (2018)
 
-Reviewed in session 1.
+Reviewed in session 1. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review1.pdf)
 
 ### 2.2 Quantitative Analysis of Culture Using Millions of Digitized Books (2011)
 
-Reviewed in session 1.
+Reviewed in session 1. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review2.pdf)
 
 ### 2.3 Large-scale physical activity data reveal worldwide activity inequality (2018)
 
-Reviewed in session 2.
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review3.pdf)
 
 ### 2.4 Human Decisions and Machine Predictions (2017)
 
-Reviewed in session 2.
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.5 The Role of Social Networks in Information Diffusion (2012)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.6 Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market (2006)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.7 An Experimental Study of Search in Global Social Networks (2003)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.8 Algorithm aversion: People erroneously avoid algorithms after seeing them err (2014)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.9 Growing Closer on Facebook: Changes in Tie Strength Through Social Network Site Use (2014)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.10 Predicting poverty and wealth from mobile phone metadata (2018)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.11 Crowd-sourced Text Analysis: Reproducible and Agile Production of Political Data (2016)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.12 To put that in perspective: Generating analogies that make numbers easier to understand (2018)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.13 Man is to computer programmer as woman is to homemaker? Debiasing word embeddings (2016)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.14 Discrimination in online ad delivery (2013)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.15 Experimental Evidence of Massive-scale Emotional Contagion through Social Networks (2014)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
 
 ### 2.16 Where are human subjects in Big Data research? The emerging ethics divide (2016)
 
-Review in progress...
+Reviewed in session 2. Review can be read [here](https://github.com/PsiPhiTheta/Computational-SocSci-Labs/tree/master/rev/Review4.pdf)
